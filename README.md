@@ -6,4 +6,6 @@ This is a personal project made in Python using the python-docx framework.
 
 Try it out for yourself!
 
+Included is an example file "christmasCard.docx" with the names as shown in "names.txt"
+
 
